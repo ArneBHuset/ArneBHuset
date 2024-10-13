@@ -4,9 +4,9 @@
 - 🎓 Currently studying interaction design at the University of Bergen 2022-2025 | Frontend development at Noroff School of Technology 2023 - 2024
 
 - 📫 Find me on Linkedin
-   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/arne-bjelde-hustveit-48ab31276/)
+- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/arne-bjelde-hustveit-48ab31276/)
 - 💻 Or look at my work
-   [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://arnehustveit.myportfolio.com/)
+- [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://arnehustveit.myportfolio.com/)
     
 
 ### Languages and Tools:
