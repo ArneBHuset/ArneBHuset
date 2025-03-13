@@ -1,4 +1,6 @@
-- Current interaction design student at the University of Bergen & Frontend developer (junior)
+- Currently studying interaction design at the University of Bergen, a split between courses in informatics and UX-design.
+- I also have a Frontend developer sertification from Noroff School of Technology and Digital Media.
+- Over 4 years of experience from the maritme- & offshore industry as an electrical technician. 
 
 - 📫 Find me on Linkedin
 - [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/arne-bjelde-hustveit-48ab31276/)
@@ -17,6 +19,12 @@
 - C#
   - MudBlazor
   - .NET
+- Python (main language used for my UiB courses)
+  - Object oriented programming
+  - Search & optimalization algorithms
+  - big-O consideration
+- mySQL
+  - Basic knowledge of mySQL and data handling through a UiB course
 - Figma
 - Adobe XD
 
