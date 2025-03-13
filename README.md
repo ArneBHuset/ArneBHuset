@@ -1,11 +1,8 @@
-- 👋 Hi, I’m Arne
-- 👀 I’m interested in the intersection between frontend development and UX-design. 
-- 🌱 I’m currently learning TypeScript, React, Material UI, Python, SQL, AI aswell as UX- design, including methodologies and research
-- 🎓 Currently studying interaction design at the University of Bergen 2022-2025 | Frontend development at Noroff School of Technology 2023 - 2024
+- Current interaction design student at the University of Bergen & Frontend developer (junior)
 
 - 📫 Find me on Linkedin
 - [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/arne-bjelde-hustveit-48ab31276/)
-- 💻 Or look at my work
+- 💻 Have a look at my portfolio
 - [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://arnehustveit.myportfolio.com/)
     
 
