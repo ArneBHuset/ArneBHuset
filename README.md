@@ -4,8 +4,6 @@
 
 - 📫 Find me on Linkedin
 - [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/arne-bjelde-hustveit-48ab31276/)
-- 💻 Have a look at my portfolio
-- [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://arnehustveit.myportfolio.com/)
     
 
 ### Languages and Tools:
